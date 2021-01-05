@@ -1,0 +1,15 @@
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\MyExProjectNorth.exe.config
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\MyExProjectNorth.exe
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\MyExProjectNorth.pdb
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.csprojAssemblyReference.cache
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.Form1.resources
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.Properties.Resources.resources
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.csproj.GenerateResource.cache
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.csproj.CoreCompileInputs.cache
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.exe
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.pdb
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\EntityFramework.dll
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\EntityFramework.xml
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeki\source\repos\MyExProjectNorth\MyExProjectNorth\obj\Debug\MyExProjectNorth.csproj.CopyComplete
